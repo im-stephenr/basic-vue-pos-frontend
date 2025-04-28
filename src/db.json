@@ -1,0 +1,161 @@
+{
+  "products": [
+    {
+      "id": "3763",
+      "title": "Coke",
+      "price": "50",
+      "category": "Beverages"
+    },
+    {
+      "id": "1f3f",
+      "title": "Sprite",
+      "price": "50",
+      "category": "Beverages"
+    },
+    {
+      "id": "4bd3",
+      "title": "Mountain Dew",
+      "price": "50",
+      "category": "Beverages"
+    },
+    {
+      "id": "9526",
+      "title": "Royal",
+      "price": "50",
+      "category": "Beverages"
+    },
+    {
+      "id": "7606",
+      "title": "Adobo",
+      "price": "99",
+      "category": "Meal"
+    },
+    {
+      "id": "616b",
+      "title": "Fried Chicken",
+      "price": "100",
+      "category": "Meal"
+    },
+    {
+      "id": "2643",
+      "title": "Burger",
+      "price": "120",
+      "category": "Meal"
+    },
+    {
+      "id": "eac6",
+      "title": "Fries",
+      "price": "20",
+      "category": "Meal"
+    },
+    {
+      "id": "4d40",
+      "title": "Spaghetti",
+      "price": "60",
+      "category": "Meal"
+    },
+    {
+      "id": "5e61",
+      "title": "Rice",
+      "price": "25",
+      "category": "Meal"
+    },
+    {
+      "id": "1ee2",
+      "title": "Sundae",
+      "price": "25",
+      "category": "Dessert"
+    },
+    {
+      "id": "4350",
+      "title": "Leche Flan",
+      "price": "50",
+      "category": "Dessert"
+    },
+    {
+      "id": "ab65",
+      "title": "Halo Halo",
+      "price": "100",
+      "category": "Dessert"
+    },
+    {
+      "id": "b241",
+      "title": "Chips & Dips",
+      "category": "Appetizers",
+      "price": "50"
+    },
+    {
+      "id": "1f01",
+      "title": "Soup",
+      "price": "20",
+      "category": "Appetizers"
+    }
+  ],
+  "sales": [
+    {
+      "id": "cb17",
+      "customerId": "lv1ys",
+      "orders": [
+        {
+          "id": "3763",
+          "title": "Coke",
+          "price": "50",
+          "category": "Beverages",
+          "quantity": 1
+        },
+        {
+          "id": "1f3f",
+          "title": "Sprite",
+          "price": "50",
+          "category": "Beverages",
+          "quantity": 1
+        },
+        {
+          "id": "4bd3",
+          "title": "Mountain Dew",
+          "price": "50",
+          "category": "Beverages",
+          "quantity": 1
+        },
+        {
+          "id": "9526",
+          "title": "Royal",
+          "price": "50",
+          "category": "Beverages",
+          "quantity": 1
+        }
+      ],
+      "total": 200,
+      "date_added": "2025-03-18 19:00:00"
+    }
+  ],
+  "categories": [
+    {
+      "id": "dd2b",
+      "title": "Beverages"
+    },
+    {
+      "id": "65d9",
+      "title": "Meal"
+    },
+    {
+      "id": "d003",
+      "title": "Dessert"
+    },
+    {
+      "id": "d5d2",
+      "title": "Appetizers"
+    }
+  ],
+  "users": [
+    {
+      "id": "49f3",
+      "email": "imstephenr@gmail.com",
+      "password": "123123123",
+      "confirmPassword": "123123123",
+      "firstName": "Stephen",
+      "lastName": "Ramo",
+      "storeName": "MikMik Store"
+    }
+  ]
+}
